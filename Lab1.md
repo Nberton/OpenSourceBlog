@@ -19,7 +19,9 @@ Fun discovery : egrep *+ [filename]
 
 8 Did them
 
-9 Worked on Maze	
+9 Worked on Maze
+	[Image of Completion](blockly.png)
+
 
 10 I have looked at mozilla's repositories as they have several large 
 interesting projects but I think their scope may be beyond my abilities

@@ -13,10 +13,8 @@
 
 6\. [MIT](http://choosealicense.com/licenses/mit/)\. 
 
-7\. For a developer Apache is the best you get credit and provide a lot of freedom. For a company, either LGPL 
+7\. For a developer Apache is the best you get credit and provide a lot of freedom. For a company, either LGPL or Apache is the best because it allows them freedom or commercial applications. For the common good GPL is probably the best because it would make all source code available for all applications. 
 
-8\.
+8\. 
 
-9\.
-
-10\.
+9\. I don't have a lot of ideas for a project so I plan on asking my group what they want to do. One project I thought of in the past was to create a site that brings a lot of accesible astronomy data into one stable page. There are a lot of open resources to tap but they can be hard to read for the common person. We would use either the LAMP or MEAN Stack. 

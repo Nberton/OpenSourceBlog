@@ -1,7 +1,7 @@
 #Lab 2
 
 
-1\. [Read the Article](http://www.gnu.org/philosophy/free-sw.html) 
+1\. [Read the Article](http://www.gnu.org/philosophy/free-sw.html). Open Source software is about users having the ability to run, copy, distribute and improve the software. It actually has nothing to do with price, you can still charge for open source software. The free in this context is more related to liberty. If software abides by those four freedoms it is open source.
 
 2\. The most important reason to choose a license is to actually make your software open. If no license is directly defined your code is left as all rights reserved and is not able to be used by anyone else. Also choosing a license allows the creator to define how and in what way their code can be used. 
 

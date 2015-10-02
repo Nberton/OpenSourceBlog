@@ -1,0 +1,2 @@
+/home/ubuntu/Documents/OpenSourceBlog/lab5/step2/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/ubuntu/Documents/OpenSourceBlog/lab5/step2/build/CMakeFiles/Tutorial.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Documents/OpenSourceBlog/lab5/step5/MathFunctions/mysqrt.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

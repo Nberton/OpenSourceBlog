@@ -25,6 +25,7 @@ def binary_search(a,x):
 			#search higher valued list
 			low = mid+1		
 	return 0
+
 def main():
 	#test array
 	test = range(10)

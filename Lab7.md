@@ -27,7 +27,8 @@
 		* First Commit : Initial Commit
 		* Last Commit : Initial commit of JUCE framework for audio plugin
 
-2\. It looks fancier and provides 
+2\. It looks fancier and provides more depth of statistics. It was way easier 
+	to find the first and last commits.
 
 
 3\. Ran Gource 

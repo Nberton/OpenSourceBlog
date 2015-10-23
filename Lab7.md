@@ -1,30 +1,35 @@
 #Lab7
 
 1\. Project Selection
-	* Free-of-Charge 
-		* Number of Contributors : 
-		* Lines of code :
-		* First Commit :
-		* Last Commit :
-	* Split Screen
-		* Number of Contributors : 
-		* Lines of code :
-		* First Commit :
-		* Last Commit :
-	* Shuttle Tracking
-		* Number of Contributors : 
-		* Lines of code :
-		* First Commit :
-		* Last Commit :
-	* MeNext
-		* Number of Contributors : 
-		* Lines of code :
-		* First Commit :
-		* Last Commit :
-	* IBEIS-Web
-		* Number of Contributors : 
-		* Lines of code :
-		* First Commit :
-		* Last Commit :
+	* HW Server
+		* Number of Contributors : 18
+		* Lines of code : 123013
+		* First Commit : init commit
+		* Last Commit : Merge Pull request #198 from RCOS-Grading-Server/server
+	* CrowdCop
+		* Number of Contributors : 4
+		* Lines of code : 21168
+		* First Commit : Update README.md 
+		* Last Commit : New branch android update with new branch, add a pull request
+	* Table-Tome
+		* Number of Contributors : 2
+		* Lines of code : 62352
+		* First Commit : request
+		* Last Commit :Fixed Deleting spell list error
+	* GoMuellerWeb
+		* Number of Contributors : 2
+		* Lines of code : 298283
+		* First Commit : 
+		* Last Commit : Restructure Application
+	* Technics Plugin
+		* Number of Contributors : 1
+		* Lines of code : 1061
+		* First Commit : Initial Commit
+		* Last Commit : Initial commit of JUCE framework for audio plugin
+
+2\. It looks fancier and provides 
 
 
+3\. Ran Gource 
+	* Used a ton of space leaving me with just this one video 
+		* https://www.youtube.com/watch?v=1rXO_PbRDF4&feature=youtu.be

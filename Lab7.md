@@ -33,8 +33,8 @@
 
 3\. Ran Gource 
 	- Used a ton of space leaving me with just this one video 
-		- https://www.youtube.com/watch?v=1rXO_PbRDF4&feature=youtu.be
-	###CrowdCop Gource
+		-[Link](https://www.youtube.com/watch?v=1rXO_PbRDF4&feature=youtu.be)
+	#CrowdCop Gource
 	![Image](http://i.imgur.com/49J5UnU.png)
 	###GoMuellerWeb Gource
 	![Image](http://i.imgur.com/y1ERVES.png)

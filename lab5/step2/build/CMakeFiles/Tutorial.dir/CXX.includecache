@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Documents/OpenSourceBlog/lab5/step2/tutorial.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/home/ubuntu/Documents/OpenSourceBlog/lab5/step2/TutorialConfig.h
+MathFunctions.h
+/home/ubuntu/Documents/OpenSourceBlog/lab5/step2/MathFunctions.h
+
+TutorialConfig.h
+

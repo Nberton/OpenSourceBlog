@@ -1,0 +1,1 @@
+/home/ubuntu/Documents/OpenSourceBlog/lab5/step1/build/CMakeFiles/Tutorial.dir

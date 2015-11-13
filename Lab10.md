@@ -7,8 +7,10 @@
 
 2\.![Hello World](Lab10HelloWorld.jpg)
 
-3\. ![Serial Hello](Lab10Hello.jpg)
-)
+3\. Serial Hello World
+		![Serial Hello](Lab10Hello.jpg)
+		Working New line
+	 ![Working\n](Lab10n.jpg)
 
 4\.
 

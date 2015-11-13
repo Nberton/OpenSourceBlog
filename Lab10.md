@@ -14,4 +14,5 @@
 
 4\.
 
-5\.
+5\.WorkingClock
+[!WorkingClock](Lab10Clock.jpg)

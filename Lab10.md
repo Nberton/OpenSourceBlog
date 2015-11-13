@@ -5,7 +5,7 @@
 
 1\.
 
-2\.![Hello World](Lab10Helloworld.jpg)
+2\.![Hello World](Lab10HelloWorld.jpg)
 
 3\. 
 

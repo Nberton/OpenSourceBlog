@@ -8,7 +8,7 @@
 2\. Our Working Hello World [Source](lab10.txt)
 ![Hello World](Lab10HelloWorld.jpg)
 
-3\. Serial Hello World [Soruce](Lab10.txt)
+3\. Serial Hello World [Source](Lab10.txt)
 	![Serial Hello](Lab10Hello.jpg)
 	 Working New line
 	 ![Working\n](Lab10n.jpg)

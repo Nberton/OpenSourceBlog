@@ -7,7 +7,8 @@
 
 2\.![Hello World](Lab10HelloWorld.jpg)
 
-3\. 
+3\. ![Serial Hello](Lab10Hello.jpg)
+)
 
 4\.
 
